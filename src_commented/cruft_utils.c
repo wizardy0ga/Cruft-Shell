@@ -1,7 +1,7 @@
 #include "windows.h"
 #include "winreg.h"
 #include "urlmon.h"
-#include "tinyutils.h"
+#include "cruft_utils.h"
 
 #pragma comment(lib, "Urlmon.lib")
 #pragma comment(lib, "Advapi32.lib")
