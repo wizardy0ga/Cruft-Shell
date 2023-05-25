@@ -92,5 +92,5 @@ Overall, experimentation with Cruft-Shell will require source code examination a
 
 ## Tested On
 
-Windows 10 Pro 22H2 (Client)
+Windows 10 Pro 22H2 Build 19045
 
